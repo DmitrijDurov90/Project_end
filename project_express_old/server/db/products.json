@@ -1,0 +1,55 @@
+
+[{
+  "product_name":"MANGO PEOPLE T-SHIRT",
+  "price":52,
+  "productImg":"https://raw.githubusercontent.com/DmitrijDurov90/uchebaGit/master/img/product_tovar_1.png",
+  "id_product": 111 
+},
+{
+  "product_name":"BANANA PEOPLE T-SHIRT",
+  "price":66,
+  "productImg":"https://raw.githubusercontent.com/DmitrijDurov90/uchebaGit/master/img/product_tovar_2.png",
+  "id_product": 112
+},
+{
+  "product_name":"STRAWBERRY PEOPLE T-SHIRT",
+  "price":75,
+  "productImg":"https://raw.githubusercontent.com/DmitrijDurov90/uchebaGit/master/img/product_tovar_3.png",
+  "id_product": 113
+},
+{
+  "product_name":"ORANGE PEOPLE T-SHIRT",
+  "price":96,
+  "productImg":"https://raw.githubusercontent.com/DmitrijDurov90/uchebaGit/master/img/product_tovar_4.png",
+  "id_product": 114
+},
+{
+  "product_name":"PUMKIN PEOPLE T-SHIRT",
+  "price":115,
+  "productImg":"https://raw.githubusercontent.com/DmitrijDurov90/uchebaGit/master/img/product_tovar_5.png",
+  "id_product": 115
+},
+{
+  "product_name":"PINEAPPLE PEOPLE T-SHIRT",
+  "price":455,
+  "productImg":"https://raw.githubusercontent.com/DmitrijDurov90/uchebaGit/master/img/product_tovar_6.png",
+  "id_product": 116
+},
+{
+  "product_name":"CUCUMBER PEOPLE T-SHIRT",
+  "price":159,
+  "productImg":"https://raw.githubusercontent.com/DmitrijDurov90/uchebaGit/master/img/product_tovar_7.png",
+  "id_product": 117
+},
+{
+  "product_name":"TOMATO PEOPLE T-SHIRT",
+  "price":666,
+  "productImg":"https://raw.githubusercontent.com/DmitrijDurov90/uchebaGit/master/img/product_tovar_8.png",
+  "id_product": 118
+},
+{
+  "product_name":"POTATO PEOPLE T-SHIRT",
+  "price":555,
+  "productImg":"https://raw.githubusercontent.com/DmitrijDurov90/uchebaGit/master/img/product_tovar_9.png",
+  "id_product": 119
+}]
